@@ -1,0 +1,2 @@
+# sslinker
+Simpler Static Linker
